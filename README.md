@@ -5,7 +5,7 @@ B_ No, iguales no son, varian en milesimas de segundo(ms).
 
 C_ No paso nada, intuyo que porque eran unicamente comentarios para ayuda de la persona que vaya a interpretar el codigo.
 
-2) A_
+2) C) a_
 ```
 #include <pthread.h>
 #include <stdio.h>
@@ -61,4 +61,6 @@ int main(int argc, char *argv[])
 	pthread_exit(NULL);
 }
 ```
-B_ 
+C) b_ ![2B](https://github.com/Enzodox/ASO2024TPs/assets/96905062/dbe2c803-ebc1-45a2-9585-a2b152007bd4)
+
+
